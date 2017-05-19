@@ -7,8 +7,6 @@ BoostMac/osx
 BoostMac/ios
 BoostMac/src
 BoostMac/*.tar.bz2
-build_android/libs
-build_android/obj
 Debug
 Release
 bzip2-1.0.6/build*
